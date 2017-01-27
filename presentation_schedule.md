@@ -57,6 +57,7 @@ _Class Cancelled_
 ### 7 Apr 2017
 
   * Jonathan DuMont, Terry Tan
+  * Ariella Hanna, Mike Bowen, Kenny Morse, Adam Mitro, Francis Mangornong
 
 
 ###  14 Apr 2017
